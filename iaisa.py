@@ -1,1 +1,1 @@
-print(("weudrifjhr"))
+print("weudrifjhr")
